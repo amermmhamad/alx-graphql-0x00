@@ -6,11 +6,5 @@ query CharacterById1 {
     species
     type
     gender
-    origin
-    location
-    image
-    episode
-    url
-    created
   }
 }
